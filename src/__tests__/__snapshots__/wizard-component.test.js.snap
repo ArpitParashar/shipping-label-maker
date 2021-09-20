@@ -1,0 +1,35 @@
+exports[`Wizard component should render with props passed using context 1`] = `
+Array [
+  <Unknown
+    className="hide"
+    id="testNextStep"
+    onClick={[Function]} />,
+  <Unknown
+    className="hide"
+    id="testPrevStep"
+    onClick={[Function]} />,
+  <h3
+    className="red-text center text-darken-3">
+     Welcome to the WIZARD!
+</h3>,
+  <div
+    className="container">
+    <Unknown
+        activeStep={1}>
+        <Unknown>
+            <Unknown>
+                1
+            </Unknown>
+        </Unknown>
+        <Unknown>
+            <Unknown>
+                2
+            </Unknown>
+        </Unknown>
+    </Unknown>
+    <Unknown
+        onAction={[Function]}
+        wizardContext={undefined} />
+</div>,
+]
+`;

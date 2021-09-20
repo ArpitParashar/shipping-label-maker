@@ -1,0 +1,115 @@
+exports[`ShippingLabel component should render using context 1`] = `
+Array [
+  <h3
+    className="red-text center text-darken-3">
+     Your shipping label!
+</h3>,
+  <Unknown
+    className="container">
+    <Unknown>
+        <div
+            className="row">
+            <div
+                className="col s6">
+                <h6>
+                    FROM:
+                </h6>
+                <Unknown>
+                    <Unknown>
+                        <Unknown
+                            primary="Name"
+                            secondary="" />
+                    </Unknown>
+                    <Unknown>
+                        <Unknown
+                            primary="Street"
+                            secondary="" />
+                    </Unknown>
+                    <Unknown>
+                        <Unknown
+                            primary="City"
+                            secondary="" />
+                    </Unknown>
+                    <Unknown>
+                        <Unknown
+                            primary="State"
+                            secondary="" />
+                    </Unknown>
+                    <Unknown>
+                        <Unknown
+                            primary="Zip"
+                            secondary="" />
+                    </Unknown>
+                </Unknown>
+            </div>
+            <div
+                className="col s6">
+                <h6>
+                    TO:
+                </h6>
+                <Unknown>
+                    <Unknown>
+                        <Unknown
+                            primary="Name"
+                            secondary="" />
+                    </Unknown>
+                    <Unknown>
+                        <Unknown
+                            primary="Street"
+                            secondary="" />
+                    </Unknown>
+                    <Unknown>
+                        <Unknown
+                            primary="City"
+                            secondary="" />
+                    </Unknown>
+                    <Unknown>
+                        <Unknown
+                            primary="State"
+                            secondary="" />
+                    </Unknown>
+                    <Unknown>
+                        <Unknown
+                            primary="Zip"
+                            secondary="" />
+                    </Unknown>
+                </Unknown>
+            </div>
+        </div>
+        <div
+            className="row">
+            <div
+                className="col s12">
+                <Unknown>
+                    <Unknown>
+                        <Unknown
+                            primary="Weight"
+                            secondary="" />
+                    </Unknown>
+                    <Unknown>
+                        <Unknown
+                            primary="Shipping Option"
+                            secondary="Priority" />
+                    </Unknown>
+                    <Unknown>
+                        <Unknown
+                            id="shippingcCost"
+                            primary="Shipping Cost"
+                            secondary="0.00" />
+                    </Unknown>
+                </Unknown>
+            </div>
+        </div>
+    </Unknown>
+    <Unknown
+        className="right">
+        <Unknown
+            color="secondary"
+            onClick={[Function]}
+            variant="contained">
+            Create Another!
+        </Unknown>
+    </Unknown>
+</Unknown>,
+]
+`;

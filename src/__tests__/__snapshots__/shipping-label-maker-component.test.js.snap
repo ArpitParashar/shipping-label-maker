@@ -1,0 +1,38 @@
+exports[`Shipping Label Maker Component should render using context 1`] = `
+Array [
+  <Unknown
+    className="hide"
+    id="testComplete"
+    onClick={[Function]} />,
+  <WizardComponent
+    onComplete={[Function]}
+    steps={
+        Array [
+            Object {
+              "component": <Unknown />,
+              "step": 1,
+            },
+            Object {
+              "component": <Unknown />,
+              "step": 2,
+            },
+            Object {
+              "component": <Unknown />,
+              "step": 3,
+            },
+            Object {
+              "component": <Unknown />,
+              "step": 4,
+            },
+            Object {
+              "component": <Unknown />,
+              "step": 5,
+            },
+            Object {
+              "component": <Unknown />,
+              "step": 6,
+            },
+          ]
+    } />,
+]
+`;

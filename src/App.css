@@ -1,0 +1,35 @@
+.app {
+  padding: 2rem;
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  .app {
+    padding: 5rem 0;
+  }
+  .MuiStepper-root {
+    display: flex;
+    padding: 24px 0;
+  }
+}
+
+
+@media only screen and (min-device-width: 280px) and (max-device-width: 360px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  .app {
+    min-width: fit-content;
+    padding: 5rem 0;
+  }
+  nav {
+    width: fit-content;
+  }
+  .sidenav {
+    width: 50%;
+  }
+  .MuiStepper-root {
+    display: flex;
+    padding: 24px 0px !important;
+  }
+  .MuiStep-horizontal {
+    padding-left: 2px !important;
+    padding-right: 2px !important;
+}
+}
